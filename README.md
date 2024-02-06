@@ -24,3 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Asset-loaning-application
 # Frontend-training-project
+# Frontend-traing-project
+# frontend-training-project
